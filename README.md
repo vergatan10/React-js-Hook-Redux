@@ -1,3 +1,15 @@
+- npm install -g json-server
+"{
+  "kontak": [
+    {
+      "nama": "Vergaa",
+      "nohp": "08124214212",
+      "id": 1
+    }
+  ]
+}"
+- json-server --watch db.json
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
